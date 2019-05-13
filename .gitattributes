@@ -1,1 +1,4 @@
 * text=auto !eol
+/test1[!!-~]-[!!-~]Copy[!!-~]-[!!-~]Copy.txt -text
+/test1[!!-~]-[!!-~]Copy.txt -text
+/test1.txt -text
